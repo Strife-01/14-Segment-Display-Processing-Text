@@ -1,7 +1,7 @@
 # 14-Segment Display Processing Text
 
 ![C Programming Language](https://raw.githubusercontent.com/github/explore/main/topics/c/c.png)
-![Microchip Logo]([https://commons.wikimedia.org/wiki/File:Microchip-Logo.svg](https://upload.wikimedia.org/wikipedia/commons/c/ca/Microchip-Logo.svg))
+![Microchip Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/Microchip-Logo.svg)
 
 This project implements a text-processing system for a **14-segment alphanumeric display**, controlled by the **PIC18F47Q10** microcontroller. It provides an interface to input ASCII text, which is displayed on the 14-segment display in a rolling fashion from **right to left**.
 
